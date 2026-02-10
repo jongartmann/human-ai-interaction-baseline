@@ -1,4 +1,39 @@
-﻿<!-- BADGES_START -->
+﻿<!-- MEGA_BLOCK_START -->
+![Artifact-only](https://img.shields.io/badge/artifact--only-yes-2ea44f)
+![Interface-neutral](https://img.shields.io/badge/interface--neutral-yes-2ea44f)
+![No%20SDK](https://img.shields.io/badge/no%20sdk-true-2ea44f)
+![No%20product%20claims](https://img.shields.io/badge/no%20product%20claims-true-2ea44f)
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+
+## What this is
+
+This repository provides a **practical baseline suite** for deploying AI in real work —  
+focused on **clarity, stability, and responsibility**, not hype or product claims.
+
+It is designed for teams who want:
+- calm, predictable human–AI collaboration
+- explicit boundaries and ownership
+- early detection of drift and silent failure
+- artifacts they can **copy, adapt, and extend internally**
+
+No code. No SDK. No lock-in.  
+Just **battle-tested structure** for teams that actually ship.
+
+---
+
+## Table of contents
+- [Baselines Suite](#baselines-suite-v01)
+- [Layers](#layers)
+- [Quick start](#quick-start)
+- [Scope & boundaries](#scope--boundaries)
+- [Layer index](#layer-index)
+
+➡️ **Start here:** `LAYER_INDEX.md`
+
+---
+<!-- MEGA_BLOCK_END -->
+
+<!-- BADGES_START -->
 ![Artifact-only](https://img.shields.io/badge/artifact--only-yes-2ea44f)
 ![Interface-neutral](https://img.shields.io/badge/interface--neutral-yes-2ea44f)
 ![No%20SDK](https://img.shields.io/badge/no%20sdk-true-2ea44f)
@@ -89,5 +124,6 @@ Open:
 
 ## Layer index
 Start here: LAYER_INDEX.md`r
+
 
 
