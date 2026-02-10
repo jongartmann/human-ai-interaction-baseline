@@ -16,6 +16,24 @@
 - [Scope & boundaries](#scope--boundaries)
 - [Layer index](#layer-index)
 <!-- TOC_END -->
+
+
+<!-- SUITE_OVERVIEW_START -->
+## What this is
+
+This repository provides a **practical baseline suite** for deploying AI in real work —  
+focused on **clarity, stability, and responsibility**, not hype or product claims.
+
+It is designed for teams who want:
+- calm, predictable human–AI collaboration
+- explicit boundaries and ownership
+- early detection of drift and silent failure
+- artifacts they can **copy, adapt, and extend internally**
+
+No code. No SDK. No lock-in.  
+Just **battle-tested structure** for teams that actually ship.
+
+<!-- SUITE_OVERVIEW_END -->
 <!-- BASELINES_SUITE_START -->
 ## Baselines Suite (v0.1)
 
@@ -71,4 +89,5 @@ Open:
 
 ## Layer index
 Start here: LAYER_INDEX.md`r
+
 
