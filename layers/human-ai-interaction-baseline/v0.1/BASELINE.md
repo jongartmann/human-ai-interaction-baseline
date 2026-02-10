@@ -156,3 +156,12 @@ Start with:
 - `templates/RESPONSIBILITY_MAP.md`
 - `checklists/ROLL_OUT.md`
 
+
+---
+
+## Next resources
+- Anti-pattern gallery: `anti-patterns/ANTI_PATTERNS.md`
+- Operator cards: `operator-cards/README.md`
+- Rollout checklist: `checklists/ROLL_OUT.md`
+- Templates: `templates/`
+
