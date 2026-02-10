@@ -1,4 +1,22 @@
-﻿<!-- BASELINES_SUITE_START -->
+﻿<!-- BADGES_START -->
+![Artifact-only](https://img.shields.io/badge/artifact--only-yes-2ea44f)
+![Interface-neutral](https://img.shields.io/badge/interface--neutral-yes-2ea44f)
+![No%20SDK](https://img.shields.io/badge/no%20sdk-true-2ea44f)
+![No%20product%20claims](https://img.shields.io/badge/no%20product%20claims-true-2ea44f)
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+<!-- BADGES_END -->
+
+
+
+<!-- TOC_START -->
+## Table of contents
+- [Baselines Suite](#baselines-suite-v01)
+- [Layers](#layers)
+- [Quick start](#quick-start)
+- [Scope & boundaries](#scope--boundaries)
+- [Layer index](#layer-index)
+<!-- TOC_END -->
+<!-- BASELINES_SUITE_START -->
 ## Baselines Suite (v0.1)
 
 **Two artifact-only layers are live — and they are inside this repo** (not separate repositories):
@@ -45,4 +63,12 @@ Open:
 - Baseline: `v0.1`
 - Intended as a practical foundation you can extend internally.
 
+
+
+
+## Layers
+
+
+## Layer index
+Start here: LAYER_INDEX.md`r
 
